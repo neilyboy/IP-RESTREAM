@@ -4,11 +4,11 @@
 # RestreamStream
 
 A powerful IPTV stream re-broadcaster with monitoring and management capabilities, featuring a modern dark-themed UI. Designed to run in a Docker container on Ubuntu Server.
+![dashboard](https://github.com/user-attachments/assets/017fa277-7481-401d-b93a-be0dc695e18f)
 
-![dashboard](https://github.com/user-attachments/assets/3dcc700a-f5c9-4dc8-b846-2690b4155ef2)
-![streamspage](https://github.com/user-attachments/assets/72a75c2a-59ad-4e77-8d6d-7e8d05a7f874)
-![playerpage](https://github.com/user-attachments/assets/0f7dfabe-4786-4ad8-b2c7-ad95d7e38f4a)
+![streamspage](https://github.com/user-attachments/assets/35aeeb3e-f21e-422e-a0ea-80954f2d56ad)
 
+![playerpage](https://github.com/user-attachments/assets/822dbb3e-ede8-4ecb-9ae9-c651379a1a8b)
 
 ## Features
 
