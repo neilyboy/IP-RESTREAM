@@ -1,3 +1,4 @@
+![iprestreamlogo](https://github.com/user-attachments/assets/bc8d1910-c56e-4146-8bad-421c3a931f8e)
 # RestreamStream
 
 A powerful IPTV stream re-broadcaster with monitoring and management capabilities, featuring a modern dark-themed UI. Designed to run in a Docker container on Ubuntu Server.
